@@ -1,7 +1,7 @@
 # Pandas Library
 Repository created to be a personal compilation for studying the pandas library. It will contain the main topics and uses of this library, and information that I think is relevant to apply to future projects. It will be built in small steps, every week or month I will add new content, depending on the organization of my studies.
 
-<p align="center"><img src='https://github.com/carlacosmo/PandasLibrary/blob/main/panda_image.png' width="400" height="250" align="middle"></p>
+<p align="center"><img src='https://github.com/carlacosmo/PandasLibrary/blob/main/panda_image.png' width="400" height="250"></p>
 <div align="right"><sup><sub>Image from <a href="https://pixabay.com/pt/users/creozavr-2567670/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6084417">Dmitry Abramov</a> by <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6084417">Pixabay</a></sub></sup></div>
 
  <br />
