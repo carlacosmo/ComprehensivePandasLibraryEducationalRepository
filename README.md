@@ -1,4 +1,4 @@
-# Pandas Library
+# Comprehensive Pandas Library Educational Repository
 Repository created to be a personal compilation for studying the pandas library. It will contain the main topics and uses of this library, and information that I think is relevant to apply to future projects. It will be built in small steps, every week or month I will add new content, depending on the organization of my studies.
 
 <p align="center"><img src='https://github.com/carlacosmo/PandasLibrary/blob/main/panda_image.png' width="400" height="250"></p>
